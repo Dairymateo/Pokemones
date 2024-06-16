@@ -10,6 +10,7 @@ namespace Pokemones.Models
 
         public string previuos { get; set; }
         public List<PokemosItem> results { get; set; }
+        //xd
 
 
     }
